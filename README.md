@@ -1,0 +1,3 @@
+- 👋 Olá,Eu sou o @12-ClaudioGustavo
+- 👀 Eu sou interessado em programação 
+- 🌱 Eu estou aprendendo React Native nesse momento 
