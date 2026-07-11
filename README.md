@@ -51,7 +51,8 @@ Organizadas por categoria para facilitar a leitura:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🔹 Backend & Banco de Dados
+#### 🔹 Backend, Sistemas & Banco de Dados
+![](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -71,29 +72,29 @@ Organizadas por categoria para facilitar a leitura:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12-ClaudioGustavo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12-ClaudioGustavo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12-ClaudioGustavo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12-ClaudioGustavo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=12-ClaudioGustavo&theme=tokyonight&hide_border=false" width="97%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=12-ClaudioGustavo&theme=tokyonight&hide_border=false" width="97%" alt="Streak do GitHub" />
 </p>
 
 ---
 
 ### 🏆 Conquistas
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=12-ClaudioGustavo&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=12-ClaudioGustavo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus do GitHub" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://paypal.me/claudiogustavo0" target="_blank">
-    <img src="https://img.shields.io/badge/Apoie_meu_trabalho-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donation" />
+    <img src="https://img.shields.io/badge/Apoie_meu_trabalho-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoiar com PayPal" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=12-ClaudioGustavo&icon=0&color=7" alt="Visit Count" />
+  <img src="https://visitcount.itsvg.in/api?id=12-ClaudioGustavo&icon=0&color=7" alt="Contador de Visitas" />
 </p>
