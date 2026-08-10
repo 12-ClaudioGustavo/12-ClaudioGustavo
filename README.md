@@ -18,7 +18,7 @@ I'm **Cláudio Gustavo**, a passionate Software Developer and the Founder of **C
 
 I work across the full stack: from pixel-perfect UIs in **React & React Native**, to scalable APIs with **Node.js**, to low-level systems programming in **C**. I believe in writing clean code, shipping fast, and never giving up — just like Asta. ⚔️
 
-- 🏢 **Founder** of [C-Space Technologies](https://github.com/12-ClaudioGustavo)
+- 🏢 **Founder** of C-Space Technologies
 - 🛒 Currently working on modern **e-Commerce platforms**
 - 📱 Building cross-platform mobile apps with **React Native**
 - ⚙️ Deep into **Systems Programming** — C, memory, algorithms
@@ -26,39 +26,27 @@ I work across the full stack: from pixel-perfect UIs in **React & React Native**
 
 ---
 
-## 🌐 Find me online
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:josemargstv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-josemargstv-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
+  <a href="https://linkedin.com/in/cláudio-gustavo-b59782279" target="_blank">
+    <img src="https://img.shields.io/badge/─────────────────%20LinkedIn%20─────────────────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/cláudio-gustavo-b59782279">
-    <img src="https://img.shields.io/badge/LinkedIn-Cláudio%20Gustavo-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+
+  <br/><br/>
+
+  <a href="https://instagram.com/claudiogustavo231" target="_blank">
+    <img src="https://img.shields.io/badge/─────────────────%20Instagram%20────────────────-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/12-ClaudioGustavo">
-    <img src="https://img.shields.io/badge/GitHub-12--ClaudioGustavo-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/claudiogustavo231">
-    <img src="https://img.shields.io/badge/Instagram-@claudiogustavo231-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/claudiojosemargustavo">
-    <img src="https://img.shields.io/badge/Facebook-Cláudio%20Gustavo-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/@claudiogustavo000">
-    <img src="https://img.shields.io/badge/Discord-claudiogustavo000-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="33%">
 
@@ -69,7 +57,7 @@ I work across the full stack: from pixel-perfect UIs in **React & React Native**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -81,7 +69,6 @@ I work across the full stack: from pixel-perfect UIs in **React & React Native**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
     </td>
     <td valign="top" width="33%">
@@ -105,13 +92,11 @@ I work across the full stack: from pixel-perfect UIs in **React & React Native**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12-ClaudioGustavo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=3ECF8E&icon_color=3ECF8E&text_color=c9d1d9" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12-ClaudioGustavo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3ECF8E&text_color=c9d1d9" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=12-ClaudioGustavo&theme=tokyonight&hide_border=true&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=3ECF8E" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=12-ClaudioGustavo&theme=tokyonight&hide_border=true&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12-ClaudioGustavo&theme=tokyonight" width="70%"/>
 </p>
 
 ---
@@ -129,7 +114,5 @@ I work across the full stack: from pixel-perfect UIs in **React & React Native**
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,50:1a5c38,100:0d1117&height=100&section=footer" width="100%"/>
-
-<img src="https://visitcount.itsvg.in/api?id=12-ClaudioGustavo&icon=5&color=3" alt="Profile views"/>
 
 </div>
